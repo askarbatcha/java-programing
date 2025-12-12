@@ -1,0 +1,7 @@
+public class Q9 {
+    public static void main(String[] args) {
+        String hex = "1A";
+        int decimal = Integer.parseInt(hex, 16);
+        System.out.println(decimal);
+    }
+}
